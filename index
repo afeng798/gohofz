@@ -1,0 +1,109 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>阿峰798多年收藏的网站</title>
+<meta name="keywords" content="专业人员必备网址" />
+<meta name="description" content="这是本人多年来收藏的网站，都是精品！" />
+
+<!--CSS样式代码位置-->
+<style>
+    .clearfix {zoom:1;}
+    .clearfix:after {content:'.';display:block;visibility:hidden;height:0;clear:both;}
+    .readers-list {list-style:none;}
+    .readers-list *{margin:0;padding:0;}
+    .readers-list li{position:relative;float:left;margin-top:20px!important;padding:0 10px;}
+    .readers-list li a{display:block;border:1px solid #eee;border-left: 3px solid #FF002B;border-radius:7px;padding-left:15px;transition:all .3s;color: white;}
+    .readers-list li:nth-of-type(6n+1) a{border-left-color:#FF002B;}
+    .readers-list li:nth-of-type(6n+2) a{border-left-color:#FFA900;}
+    .readers-list li:nth-of-type(6n+3) a{border-left-color:#00CC00;}
+    .readers-list li:nth-of-type(6n+4) a{border-left-color:#00CCFF;}
+    .readers-list li:nth-of-type(6n+5) a{border-left-color:#0089FA;}
+    .readers-list li:nth-of-type(6n+6) a{border-left-color:#404040;}
+    .readers-list li a div{padding:12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#999;}
+    .readers-list li a div:first-child{border-bottom:1px dashed #eee;font-size:1.3em;color:#666;}
+    .readers-list li a:hover {
+	-webkit-transform: translateY(-6px);
+	transform: translateY(-6px);
+	box-shadow: 0 26px 40px -24px rgba(0,0,0,0.3);
+}
+    .link-title {
+	position: relative;
+	left: -19px;
+	display: inline-block;
+	margin: 20px 0;
+	font-size: 15px;
+	padding: 0 30px 0 25px;
+	height: 45px;
+	line-height: 45px;
+	border-radius: 0 35px 35px 0;
+	background: #404040;
+	color: #fff;
+    }
+    @media(min-width:200px){
+        .readers-list li{width:15%;}
+    }
+    @media(max-width:800px){
+        .readers-list li{width:100%;}
+    }
+
+    .page-common ul li, .page-common ol li {
+        margin-bottom: 12px;
+    }
+    .page-friends ul {
+        padding: 0;
+        margin: 0;
+    }
+</style>
+
+</head>
+
+<body>
+
+<!--DIV代码位置-->
+<div class="page-friends page-common">
+<div class="link-title wow rollIn animated" style="visibility: visible; animation-name: rollIn;">综合类网站（也是我最常用的网站）</div>
+<ul class="readers-list clearfix">
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="colleague" title="有事就找度娘，国内最大的搜索引擎！" target="_blank" href="https://www.baidu.com/"><div>百度</div><div>2021年08月31日收藏</div></a></li>
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="colleague" title="记录美好生活，国内最大的短视频平台！" target="_blank" href="https://www.douyin.com/"><div>抖音</div><div>2021年08月31日收藏</div></a></li>
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="colleague" title="网易是中国领先的互联网技术公司。" target="_blank" href="https://www.163.com/"><div>网易</div><div>2021年08月31日收藏</div></a></li>
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="colleague" title="京东大商场，买正品上京东！" target="_blank" href="https://www.jd.com/"><div>京东</div><div>2021年08月31日收藏</div></a></li>
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="colleague" title="淘宝大杂绘应有尽有。" target="_blank" href="https://www.taobao.com/"><div>淘宝</div><div>2021年08月31日收藏</div></a></li>
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="colleague" title="这是我的家乡官网。" target="_blank" href="http://www.xuyong.gov.cn/"><div>叙永县人民政府</div><div>2021年08月31日收藏</div></a></li>
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="colleague" title="企鹅，官网首页！" target="_blank" href="https://www.qq.com/"><div>腾讯</div><div>2021年08月31日收藏</div></a></li>
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="colleague" title="算的上是国内最早的综合信息类网站了。" target="_blank" href="https://www.sina.com.cn/"><div>新浪</div><div>2021年08月31日收藏</div></a></li>
+</ul>
+
+<div class="link-title wow rollIn animated" style="visibility: visible; animation-name: rollIn;">视频影音（看电影电视剧必备）</div>
+<ul class="readers-list clearfix">
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="" title="国内较早的视频网站。" target="_blank" href="https://www.youku.com/"><div>优酷</div><div>2021年08月31日收藏</div></a></li>
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="" title="腾讯旗下的视频同站。" target="_blank" href="http://v.qq.com/"><div>腾讯视频</div><div>2021年08月31日收藏</div></a></li>
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="" title="也是大牌视频网站。" target="_blank" href="https://www.iqiyi.com/"><div>爱奇艺</div><div>2021年08月31日收藏</div></a></li>
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="" title="传说中的B站，有很多教程可以看，自学必备网站！" target="_blank" href="https://www.bilibili.com/"><div>哗哩哗哩</div><div>2021年08月31日收藏</div></a></li>
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="" title="百度旗下的视频网站。" target="_blank" href="https://haokan.baidu.com/"><div>好看视频</div><div>2021年08月31日收藏</div></a></li>
+</ul>
+
+<div class="link-title wow rollIn animated" style="visibility: visible; animation-name: rollIn;">免费资源（设计师的天堂）</div>
+<ul class="readers-list clearfix">
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="" title="阿峰798爱摄影，爱修图，爱剪辑，爱代码！" target="_blank" href="https://www.vjshi.com/"><div>VJ师网</div><div>视频素材，我们更专业</div></a></li>
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="" title="可以根据台词搜视频片段。" target="_blank" href="http://33.agilestudio.cn/"><div>33台词网</div><div>搜剪视频片段</div></a></li>
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="" title="阿峰798爱摄影，爱修图，爱剪辑，爱代码！" target="_blank" href="https://www.yugaopian.cn/"><div>预告片世界</div><div>下载各类预告片的地方</div></a></li>
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="" title="阿峰798爱摄影，爱修图，爱剪辑，爱代码！" target="_blank" href="https://www.tosound.com/"><div>淘声网</div><div>各种声音都有</div></a></li>
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="" title="阿峰798爱摄影，爱修图，爱剪辑，爱代码！" target="_blank" href="https://www.tosound.com/"><div>淘声网</div><div>各种声音都有</div></a></li>
+</ul>
+
+<div class="link-title wow rollIn animated" style="visibility: visible; animation-name: rollIn;">工具类网站（我常用的一工具）</div>
+<ul class="readers-list clearfix">
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="" title="全英文的用起来有点老火！" target="_blank" href="https://github.com/"><div>国外纯HTML空间</div><div>2021年08月31日收藏</div></a></li>
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="" title="可以根据台词搜视频片段。" target="_blank" href="http://33.agilestudio.cn/"><div>33台词网</div><div>搜剪视频片段</div></a></li>
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="" title="阿峰798爱摄影，爱修图，爱剪辑，爱代码！" target="_blank" href="https://www.yugaopian.cn/"><div>预告片世界</div><div>下载各类预告片的地方</div></a></li>
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="" title="阿峰798爱摄影，爱修图，爱剪辑，爱代码！" target="_blank" href="https://www.tosound.com/"><div>淘声网</div><div>各种声音都有</div></a></li>
+<li class="wow slideInUp animated" style="visibility: visible; animation-name: slideInUp;"><a rel="" title="阿峰798爱摄影，爱修图，爱剪辑，爱代码！" target="_blank" href="https://www.tosound.com/"><div>淘声网</div><div>各种声音都有</div></a></li>
+</ul>
+
+</div>
+<!--DIV结束-->
+
+</body>
+</html>
